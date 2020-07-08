@@ -85,8 +85,23 @@ header.task2 {
 
 /*TASK 3 - 3 rows 
 
-Row 1: 1 box
-Row 2: 3 boxes 
-Row 3: 3 boxes 
 
 */
+
+#wrap {
+	background-color: #B0CFFF;
+}
+
+
+#nav {
+	float: left;
+	background-color: #5B7FBD;
+	background-image: url("tree.png");
+	
+}
+
+#content {
+	background-color: skyblue;
+	float: right;
+	text-align: center;
+}

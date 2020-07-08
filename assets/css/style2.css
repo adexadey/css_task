@@ -1,0 +1,44 @@
+/*TASK 3 
+__________
+
+3 elements 
+
+*/
+
+body {
+	background: #364371;
+	font-family: arial;
+	margin: 0 auto;
+}
+
+#wrap {
+	
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#nav {
+	width: 240px;
+	height: 500px;
+	float: left;
+	background: skyblue;
+}
+
+#content {
+	width: 660px;
+	height: 500px;
+	box-sizing: border-box;
+	padding: 0 30px;
+	float: left;
+	background: #5B7FBD;
+}
+
+#content ul {
+	list-style: none;
+}
+
+#footer {
+	text-align: center;
+}
